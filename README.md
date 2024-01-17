@@ -1,6 +1,8 @@
 # taro-late-test
 Testing YOLOv8 annotation and training on a small taro-late dataset
 
+![sample_result](https://github.com/tlb-unilag/taro-late-test/blob/main/5b35c00f-L21.jpeg)
+
 ### Resources
 
 Ultralytics
